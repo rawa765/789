@@ -443,7 +443,7 @@ if ltx > 12:
 else:
     a = ltx
     tag = "AM"
-#------------------[ MACHINE-SUPPORT ]---------------#
+#------------------[ MACHINE-jSUPPORT ]---------------#
  
 def alvino_xy(u):
         for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.005)
